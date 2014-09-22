@@ -1,0 +1,30 @@
+{
+    "name": "tabbi89/view-presenter",
+    "description": "Simple View Presenter implementation.",
+    "keywords": ["View Presenter"],
+    "homepage": "http://tabbi89.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tabbi89",
+            "email": "tom@tabbi89.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpspec/phpspec": "~2.0"
+    },
+    "autoload": {
+        "psr-4": { "Tabbi89\\Presenter\\": "src/Presenter/" }
+    },
+    "config": {
+        "bin-dir": "bin/"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
