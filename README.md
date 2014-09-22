@@ -4,7 +4,7 @@ This is a simple implementation of View Presenter
 
 [![Build Status](https://travis-ci.org/tabbi89/ViewPresenter.svg?branch=master)](http://travis-ci.org/tabbi89/ViewPresenter)
 
-[![SensioLabsInsight](https://insight.sensiolabs.com/projects/d0be0842-7e3c-4e6a-95ac-b18e3d6bceb7/mini.png)](https://insight.sensiolabs.com/projects/d0be0842-7e3c-4e6a-95ac-b18e3d6bceb7)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/61d514da-14a3-4f7a-a1d4-162b05d4cc14/mini.png)](https://insight.sensiolabs.com/projects/61d514da-14a3-4f7a-a1d4-162b05d4cc14)
 
 Installation
 ------------
